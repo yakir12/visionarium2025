@@ -69,7 +69,14 @@ Dancing behavior. They scan their environment. Using the sun as a directional cu
 
 ---
 
+# Logit
+
 ![left w:400](media/bayesianwithlogit.svg) ![right w:400](media/glmwithlogit.svg)
+
+---
+
+# Physical relevance
+
 ![w:400](media/bayesianwithnewlink.svg) ![w:400](media/glmwithnewlink.svg)
 
 ---
@@ -84,7 +91,7 @@ This animation was made by Bestien in blender. He even made the screws...
 
 ---
 
-![bg](https://april.eecs.umich.edu/media/apriltag/apriltagrobots_overlay.jpg)
+![bg](media/apriltag.jpg)
 
 ---
 
@@ -105,6 +112,8 @@ This animation was made by Bestien in blender. He even made the screws...
 
 ---
 
+# Others
+
 - Sun moon tables
 - Camera calibrations
 - Autotracker
@@ -114,12 +123,12 @@ This animation was made by Bestien in blender. He even made the screws...
 
 # As a hiring PI
 
-## Pros:
+Pros:
 - Broad spectrum of expertise
 - Background lines of investigation
 - Elevate the whole lab
 
-## Cons: 
+Cons: 
 - Costs money
 - No formal/institutional way of paying/motivating for it
 
@@ -127,13 +136,11 @@ This animation was made by Bestien in blender. He even made the screws...
 
 # As a career choice
 
-## Pros:
-- no grant applications
-- no articles to write
-- no teaching
+Pros:
+- no grant applications, articles to write, teaching
 - build and play with "toys"
 
-## Cons: 
+Cons: 
 - no job security
 - less pay than in the private industry
 
