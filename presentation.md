@@ -49,7 +49,7 @@ Dancing behavior. They scan their environment. Using the sun as a directional cu
 
 ---
 
-<video src="media/repeated dances.mp4" autoplay muted width="100%" loop></video>
+<video src="media/repeateddances.mp4" autoplay muted width="100%" loop></video>
 
 ---
 
