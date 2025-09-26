@@ -10,7 +10,14 @@ math: mathjax
 Integrating Software Engineering and Sensory Ecology: 
 Tools for Understanding Animal Orientation
 
-*Yakir Gagnon - Visionarium 2025*
+*Yakir Gagnon - Lund Vision Group
+Visionarium 2025*
+
+![bg vertical left:15% w:100%](media/lundlogo.svg) 
+
+![bg left:15% w:100%](media/vglogo.svg)
+
+![bg left:15% w:100%](media/link.svg)
 
 <!--
 Hi my name is Yakir, I work as a Research Software Engineer at Marie Dacke's lab at Lund University, Sweden. What is a research software engineer? I'm basically like a postdoc that never leaves. I build software and hardware for everyone in the lab, including experimental setups, statistical analysis, visualizations, and more...
@@ -72,6 +79,10 @@ Dancing behavior. They scan their environment. Using the sun as a directional cu
 # Logit
 
 ![left w:400](media/bayesianwithlogit.svg) ![right w:400](media/glmwithlogit.svg)
+
+---
+
+(show them the widget)
 
 ---
 
