@@ -1,19 +1,20 @@
-using WGLMakie
-# using GLMakie
+# using WGLMakie
+using GLMakie
 using CoordinateTransformations, Rotations
 
-screen_config = (; resize_to=:parent)
+# screen_config = (; resize_to=:parent)
 
-WGLMakie.activate!(; screen_config...)
+# WGLMakie.activate!(; screen_config...)
 
-fig = Figure(size = (1000, 1000))
+fig = Figure(fontsize = 40)
+# fig = Figure(size = (1000, 1000))
 
 n = 101
 
-ax = Axis3(fig[1, 1], aspect = :data, limits = ((-0.1, 1.2), (-1, 1), (-0.1, 1.2)))
+ax = Axis3(fig[2, 1], aspect = :data, limits = ((-0.1, 1.2), (-1, 1), (-0.1, 1.2)))
 
 sg = SliderGrid(
-    fig[2, 1],
+    fig[1, 1],
     (label = "Elevation", range = 0:90, format = "{:n}°", startvalue = 0),
     (label = "Error", range = 0:180, format = "{:n}°", startvalue = 0),
     tellwidth = false)
